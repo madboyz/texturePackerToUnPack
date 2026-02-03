@@ -1,0 +1,18 @@
+{
+  "name": "split",
+  "version": "1.0.0",
+  "main": "split.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "caxa": "^3.0.1"
+  }
+}

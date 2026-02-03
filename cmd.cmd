@@ -1,0 +1,1 @@
+node split.js "battle.png" "batte.json" "out"
